@@ -22,8 +22,8 @@ print(text)
 моря становить 37 800 км2. Яку площу займають Чорне та Азов-
 ське моря разом?
 """
-Black_sea = 436402
-Azov_sea = 37800
+black_sea = 436402
+azov_sea = 37800
 Total = (Black_sea + Azov_sea) / 2
 Comment_for_kids = 'This is just a mathematical example. Nothing more'
 
